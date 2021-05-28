@@ -234,6 +234,8 @@ module.exports = {
       DEFAULT: '1',
     },
     fontFamily: {
+      'montserrat-regular': ['montserrat','sans-serif'],
+      'Limelight': ['Limelight','sans-serif'],
       sans: [
         'ui-sans-serif',
         'system-ui',
